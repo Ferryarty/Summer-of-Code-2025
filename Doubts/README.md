@@ -1,1 +1,1 @@
-
+This folder contains the answers to the doubts asked by mentees in the live lectures or through the WhatsApp group. This provides an easy access for menttes to visit back to the answer of a doubt if they forget it.
